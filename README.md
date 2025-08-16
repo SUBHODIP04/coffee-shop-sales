@@ -7,7 +7,7 @@ The main objective of
  will enhance the
  performance of the
  Coffee Shop.
- <br>
+ 
  ## Questions (KPI)
  How do sales vary by day of the
  week and hour of the day?
